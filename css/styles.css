@@ -1,0 +1,72 @@
+li{
+  color: blue;
+}
+
+h1{
+  color: black;
+}
+
+/* This is comment */
+/*li{
+  color: blue;
+}
+
+h1,h3{
+  color: red;
+}*/
+
+/*
+  The dot (.) signifies that it's styling a class
+  The hash (#) signifies that it's styling an id
+*/
+
+
+.container {
+    background-color: #5F1100;
+}
+
+#MainTitle{
+  color: blue;
+  font-size: 50px;
+}
+
+#OralHealth{
+  color:  #DAA520;
+  font-weight: bold;
+}
+
+.bluecolor{
+  color: blue;
+}
+
+.redcolor{
+  color: black;
+}
+
+.text-area {
+  background: #ccc;
+}
+
+.maintitle { 
+  background: #ccc;
+}
+
+.container {
+
+  margin-top: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
